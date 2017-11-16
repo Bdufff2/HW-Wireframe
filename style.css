@@ -32,39 +32,38 @@ nav {
 .clearfix:after {
     display:block;
     clear:both;
-    
-
 }
 
 .section {
     float: left;
-    width: 45%;
+    width: 55%;
     height: 265px;
     background-color: rgb(240, 238, 238);
-    Margin: 15px;
+    Margin: 0 auto;
+    margin-top: 10px;
     padding-top: 35px;
-    border: 2px solid red;
 }
 
 #article {
     background-color: rgb(48, 47, 47);
-    /* margin: 5px; */
+    margin: 5px;
     padding-top:30px;
     padding-bottom:16px;
 }
 
 h1, p {
     background-color: rgb(240, 238, 238);
-    /* margin: 5px; */
+    margin: 5px;
     height: 50px;
     padding-top:25px;
 }
 
 #aside {
     float: right;
-    width: 45%;
+    width: 43%;
     height: 265px;
-    margin: 15px auto;
+    margin: 0 auto;
+    margin-top: 10px;
     background-color: rgb(240, 238, 238);
     padding-top: 35px;
 }
@@ -74,6 +73,5 @@ footer {
     margin: 5px auto;
     padding-top:25px;
     padding-bottom: 25px;
-    /* display: inline-block; */
-    margin-top: 314px;
+    margin-top: 296px;
 }
